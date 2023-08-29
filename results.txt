@@ -1,0 +1,28 @@
+Попытка 1: Lego
+Попытка 2: Barbie
+Попытка 3: Barbie
+Попытка 4: Barbie
+Попытка 5: Lego
+
+Остаток:
+Lego: 0
+Robot: 2
+Barbie: 3
+
+Попытка 1: Barbie
+Попытка 2: Barbie
+Попытка 3: Robot
+Попытка 4: Lego
+Попытка 5: Robot
+Попытка 6: Barbie
+Попытка 7: Barbie
+Попытка 8: Barbie
+Попытка 9: Lego
+Попытка 10: Barbie
+Попытка 11: Игрушки закончились
+
+Остаток:
+Lego: 0
+Robot: 0
+Barbie: 0
+
